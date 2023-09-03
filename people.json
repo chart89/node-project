@@ -1,0 +1,24 @@
+{"people":[
+    {"gender":"M","name":"Arek","lastname":"Niemen","age":15,"email":"arek.niemen@gmail.com"},
+    {"gender":"M","name":"Janek","lastname":"Brożek","age":15,"email":"janek.brożek@gmail.com"},
+    {"gender":"K","name":"Mariola","lastname":"Niemen","age":15,"email":"mariola.niemen@gmail.com"},
+    {"gender":"M","name":"Michał","lastname":"Mickiewicz","age":18,"email":"michał.mickiewicz@gmail.com"},
+    {"gender":"M","name":"Janek","lastname":"Fiołek","age":25,"email":"janek.fiołek@gmail.com"},
+    {"gender":"K","name":"Janka","lastname":"Fiołek","age":18,"email":"janka.fiołek@gmail.com"},
+    {"gender":"M","name":"Arek","lastname":"Fiołek","age":25,"email":"arek.fiołek@gmail.com"},
+    {"gender":"M","name":"Tadek","lastname":"Niemen","age":30,"email":"tadek.niemen@gmail.com"},
+    {"gender":"M","name":"Tadek","lastname":"Duda","age":15,"email":"tadek.duda@gmail.com"},
+    {"gender":"M","name":"Arek","lastname":"Brożek","age":25,"email":"arek.brożek@gmail.com"},
+    {"gender":"M","name":"Janek","lastname":"Duda","age":25,"email":"janek.duda@gmail.com"},
+    {"gender":"K","name":"Mariola","lastname":"Mickiewicz","age":20,"email":"mariola.mickiewicz@gmail.com"},
+    {"gender":"M","name":"Tadek","lastname":"Mickiewicz","age":30,"email":"tadek.mickiewicz@gmail.com"},
+    {"gender":"M","name":"Arek","lastname":"Fiołek","age":15,"email":"arek.fiołek@gmail.com"},
+    {"gender":"M","name":"Tadek","lastname":"Brożek","age":30,"email":"tadek.brożek@gmail.com"},
+    {"gender":"K","name":"Marysia","lastname":"Mickiewicz","age":18,"email":"marysia.mickiewicz@gmail.com"},
+    {"gender":"K","name":"Mariola","lastname":"Mickiewicz","age":20,"email":"mariola.mickiewicz@gmail.com"},
+    {"gender":"K","name":"Dorota","lastname":"Mickiewicz","age":25,"email":"dorota.mickiewicz@gmail.com"},
+    {"gender":"K","name":"Dorota","lastname":"Mickiewicz","age":18,"email":"dorota.mickiewicz@gmail.com"},
+    {"gender":"M","name":"Gienek","lastname":"Brożek","age":18,"email":"gienek.brożek@gmail.com"},
+    {"gender":"K","name":"Janka","lastname":"Fiołek","age":18,"email":"janka.fiołek@gmail.com"}
+    ]
+}
