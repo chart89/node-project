@@ -18,19 +18,20 @@ for(let i=0; i <=20; i++){
     if(gen === 'M') {
         const mName = randChoice(maleNames);
         const lName = lastName[Math.floor(Math.random() * lastName.length)];
-        const agePersone = age[Math.floor(Math.random() * lastName.length)];
+        const agePersone = age[Math.floor(Math.random() * age.length)];
         people.push({'gender':gen, 'name':mName, 'lastname':lName, 'age':agePersone, 'email':mName.toLowerCase() + '.' + lName.toLowerCase() +'@gmail.com'});
     } else {
         const mName = randChoice(femaleNames);
         const lName = lastName[Math.floor(Math.random() * lastName.length)];
-        const agePersone = age[Math.floor(Math.random() * lastName.length)];
+        const agePersone = age[Math.floor(Math.random() * age.length)];
         people.push({'gender':gen, 'name':mName, 'lastname':lName, 'age':agePersone, 'email':mName.toLowerCase() + '.' + lName.toLowerCase() +'@gmail.com'});
     };
 }
 
 const peopleJson = JSON.stringify({people});
 
-fs.writeFile('people.json', peopleJson, (err) => {
+fs.writeFile('people.pdf', peopleJson, (err) => {
   if (err) throw err;
   console.log('The file has been saved!');
 });
+
